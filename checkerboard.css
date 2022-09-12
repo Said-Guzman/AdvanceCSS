@@ -144,14 +144,21 @@ background-color: black;
     }
 
 footer{
-    font-size: 50px;
+    font-size: 20px;
     text-align: center;
+
 }
         
         
         
         
-        
+#link{
+    text-decoration: none;
+    color: red;
+}
+#link::after{
+    text-decoration: none;
+}     
         
         
         

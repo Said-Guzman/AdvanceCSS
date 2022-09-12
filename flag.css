@@ -33,6 +33,14 @@ th{
 
 footer{
     font-size: 30px;
+    color: black;
+    text-align: center;
 }
 
-
+#link{
+    text-decoration: none;
+    color: black;
+}
+#link::after{
+    text-decoration: none;
+}
